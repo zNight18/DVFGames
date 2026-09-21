@@ -1,0 +1,236 @@
+[
+  {
+    "id": "1789934882920",
+    "title": "Minecraft",
+    "coverUrl": "https://cdn.mos.cms.futurecdn.net/32aRQrSLcSdksZEyuLUftQ.jpg",
+    "date": null,
+    "description": null,
+    "played": false,
+    "createdAt": "2026-09-20T20:08:02.920Z"
+  },
+  {
+    "id": "1789934798379",
+    "title": "ROBLOX",
+    "coverUrl": "https://www.mobiletime.com.br/wp-content/uploads/2024/10/roblox.jpg",
+    "date": null,
+    "description": null,
+    "played": false,
+    "createdAt": "2026-09-20T20:06:38.379Z"
+  },
+  {
+    "id": "1789935161777",
+    "title": "Among Us",
+    "coverUrl": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch/70010000036098/758ab0b61205081da2466386940752c70e0e5ea43bd39e8b9b13eaa455c69b7e",
+    "date": null,
+    "description": null,
+    "played": false,
+    "createdAt": "2026-09-20T20:12:41.778Z"
+  },
+  {
+    "id": "1789935283319",
+    "title": "Gang Beasts",
+    "coverUrl": "https://variety.com/wp-content/uploads/2019/03/gang-beasts-xbox-one.jpg.optimal.jpg?w=1000&h=600&crop=1",
+    "date": null,
+    "description": null,
+    "played": false,
+    "createdAt": "2026-09-20T20:14:43.319Z"
+  },
+  {
+    "id": "1789935445514",
+    "title": "Friday The 13th: The Game",
+    "coverUrl": "https://images7.alphacoders.com/663/663751.jpg",
+    "date": null,
+    "description": null,
+    "played": false,
+    "createdAt": "2026-09-20T20:17:25.514Z"
+  },
+  {
+    "id": "1789935478276",
+    "title": "Counter-Strike 2",
+    "coverUrl": "https://cdn.displate.com/artwork/1200x857/2023-06-12/908b4de4ebf161f5b44184831ccc052e_931e3ff289ff4c98240be9b59e05f577.jpg",
+    "date": null,
+    "description": null,
+    "played": false,
+    "createdAt": "2026-09-20T20:17:58.276Z"
+  },
+  {
+    "id": "1789935646734",
+    "title": "GTA SA: MTA (Multiplayer Mod)",
+    "coverUrl": "https://4kwallpapers.com/images/wallpapers/grand-theft-auto-1280x1280-10750.jpg",
+    "date": null,
+    "description": null,
+    "played": false,
+    "createdAt": "2026-09-20T20:20:46.734Z"
+  },
+  {
+    "id": "1789935774429",
+    "title": "Euro Truck Simulator 2",
+    "coverUrl": "https://wallpapercave.com/wp/wp7781437.jpg",
+    "date": null,
+    "description": null,
+    "played": false,
+    "createdAt": "2026-09-20T20:22:54.429Z"
+  },
+  {
+    "id": "1789935907235",
+    "title": "Grapplers Galore",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2239140/03968f9530fb2047bce32a73b59ba98a25502410/capsule_616x353.jpg?t=1739020779",
+    "date": null,
+    "description": null,
+    "played": false,
+    "createdAt": "2026-09-20T20:25:07.235Z"
+  },
+  {
+    "id": "1789935947375",
+    "title": "Zumbi Blocks 2",
+    "coverUrl": "https://img.itch.zone/aW1nLzM0ODIzOTUucG5n/original/yKEWsJ.png",
+    "date": null,
+    "description": null,
+    "played": false,
+    "createdAt": "2026-09-20T20:25:47.375Z"
+  },
+  {
+    "id": "1789936050530",
+    "title": "Penguins Arena",
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/11280/capsule_616x353.jpg?t=1786394783",
+    "date": null,
+    "description": null,
+    "played": false,
+    "createdAt": "2026-09-20T20:27:30.530Z"
+  },
+  {
+    "id": "1789936262373",
+    "title": "local de testes de chassi de quartzo",
+    "coverUrl": "https://tr.rbxcdn.com/180DAY-06851a6a9797e45b51d2713693fe07f0/500/280/Image/Jpeg/noFilter",
+    "date": null,
+    "description": null,
+    "played": false,
+    "createdAt": "2026-09-20T20:31:02.373Z"
+  },
+  {
+    "id": "1789936321084",
+    "title": "PEAK",
+    "coverUrl": "https://assets.nuuvem.com/image/upload/t_product_sharing_banner/v1/products/68e58654c35c6601c0406f64/sharing_images/bwa9bcaiqvheedwddw6g.jpg",
+    "date": null,
+    "description": null,
+    "played": false,
+    "createdAt": "2026-09-20T20:32:01.084Z"
+  },
+  {
+    "id": "1789936361390",
+    "title": "How to fish",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4001890/c5ccd85d2910a21019adb2581011ac186741d030/capsule_616x353.jpg?t=1788788717",
+    "date": null,
+    "description": null,
+    "played": false,
+    "createdAt": "2026-09-20T20:32:41.390Z"
+  },
+  {
+    "id": "1789936471406",
+    "title": "FNAF DOOM",
+    "coverUrl": "https://m.gjcdn.net/game-thumbnail/500/720503-crop12_28_765_451-vux8eevd-v4.webp",
+    "date": null,
+    "description": null,
+    "played": false,
+    "createdAt": "2026-09-20T20:34:31.406Z"
+  },
+  {
+    "id": "1789936531395",
+    "title": "Rocket League",
+    "coverUrl": "https://www.exitlag.com/blog/wp-content/uploads/2025/06/rocket-league-steam.webp",
+    "date": null,
+    "description": null,
+    "played": false,
+    "createdAt": "2026-09-20T20:35:31.395Z"
+  },
+  {
+    "id": "1789936615080",
+    "title": "CopperCube 6",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/857350/capsule_616x353.jpg?t=1765358807",
+    "date": null,
+    "description": null,
+    "played": false,
+    "createdAt": "2026-09-20T20:36:55.080Z"
+  },
+  {
+    "id": "1789936636984",
+    "title": "Gorilla Tag (Non-VR)",
+    "coverUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202410/2514/4744c1ac34e78d50f9ecfbc9958ca6375a2011b1bcf9b9b6.png",
+    "date": null,
+    "description": null,
+    "played": false,
+    "createdAt": "2026-09-20T20:37:16.984Z"
+  },
+  {
+    "id": "1789937075684",
+    "title": "The Boiled One: Survivors",
+    "coverUrl": "https://raw.githubusercontent.com/zNight18/DVFGames/refs/heads/main/The%20Boiled%20One%20Survivors/TheBoiledOneSurvivors.jpg",
+    "date": null,
+    "description": null,
+    "played": false,
+    "createdAt": "2026-09-20T20:44:35.684Z"
+  },
+  {
+    "id": "1789934968838",
+    "title": "Minecraft: Dream Shift Mod",
+    "coverUrl": "https://cdn.modrinth.com/data/sdQwPACz/46f353dbf86d2de266c7df52fed6e064c3a64ee5.jpeg",
+    "date": null,
+    "description": null,
+    "played": false,
+    "createdAt": "2026-09-20T20:09:28.838Z"
+  },
+  {
+    "id": "1789938701963",
+    "title": "Bombanana!",
+    "coverUrl": "https://indiegame.com/wp-content/uploads/2026/09/Bombanana_Key2.png",
+    "date": null,
+    "description": null,
+    "played": false,
+    "createdAt": "2026-09-20T21:11:41.963Z"
+  },
+  {
+    "id": "1789938814769",
+    "title": "Mimesis",
+    "coverUrl": "https://gaming-cdn.com/images/products/20970/orig/mimesis-pc-steam-cover.jpg?v=1761750647",
+    "date": null,
+    "description": null,
+    "played": false,
+    "createdAt": "2026-09-20T21:13:34.769Z"
+  },
+  {
+    "id": "1789938875804",
+    "title": "Shift At Midnight",
+    "coverUrl": "https://topgames.gg/data/image/game/shift-at-midnight.png",
+    "date": null,
+    "description": null,
+    "played": false,
+    "createdAt": "2026-09-20T21:14:35.804Z"
+  },
+  {
+    "id": "1789938934358",
+    "title": "Minecraft: Cidade",
+    "coverUrl": "https://cdn.mos.cms.futurecdn.net/db5Wn9sscaQ4viveyXmScn.jpg",
+    "date": null,
+    "description": null,
+    "played": false,
+    "createdAt": "2026-09-20T21:15:34.358Z"
+  },
+  {
+    "id": "1789939042095",
+    "title": "Burglin’ Gnomes",
+    "coverUrl": "https://gaming-cdn.com/images/products/21663/orig-fallback-v1/burglin-gnomes-pc-steam-cover.jpg?v=1781170721",
+    "date": null,
+    "description": null,
+    "played": false,
+    "createdAt": "2026-09-20T21:17:22.095Z"
+  },
+  {
+    "id": "1790007713450",
+    "title": "Capote",
+    "coverUrl": "https://assets-prd.ignimgs.com/2025/10/01/capote-thumb223-1759361087025.jpg",
+    "date": null,
+    "description": null,
+    "played": false,
+    "createdAt": "2026-09-21T16:21:53.450Z"
+  }
+]
